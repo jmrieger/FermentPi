@@ -7,6 +7,7 @@ Multiple vessel fermentation controller for the Raspberry Pi
 * Specify fermentation schedule with multiple intervals, with a hard start date.  When fermentation is finished, the temperature on the last step shall be held until the schedule is marked as complete, ensuring no erroneous fluctuations of the beer.
 * Support import of BeerXML based recipe to create the fermentation schedule.
 * Log all configuration, sensor data, etc in sqlite 
+* Power the Raspberry Pi with a battery pack supporting pass-through charging.  Double bonus if the RPi can use a GPIO pin to detect if wall power isn't present.
 
 # Long-term features
 * Support ThingSpeak API / accounts for remote monitoring of fermentations.
