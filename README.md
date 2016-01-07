@@ -17,5 +17,6 @@ Multiple vessel fermentation controller for the Raspberry Pi
 
 # Reference Projects
 * https://github.com/ronanguilloux/temperature-pi
+* https://github.com/br3ttb/Arduino-PID-Library
 
 
