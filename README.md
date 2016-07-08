@@ -18,10 +18,17 @@ Multiple vessel fermentation controller for the Raspberry Pi
 * Angular
 * CouchDB
 * Flask
+<<<<<<< HEAD
 * dweepy 
+=======
+* dweepy
+>>>>>>> 418ef056506c654c81988df25dd72caa2d314fba
 * python-dotenv
 
 # Reference Projects
 * https://github.com/ronanguilloux/temperature-pi
 * http://code.activestate.com/recipes/577231-discrete-pid-controller/
+<<<<<<< HEAD
 
+=======
+>>>>>>> 418ef056506c654c81988df25dd72caa2d314fba
