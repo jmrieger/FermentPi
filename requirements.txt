@@ -1,0 +1,17 @@
+dweepy==0.2.0
+html5lib==0.999
+mcpi==0.1.1
+numpy==1.8.2
+ordereddict==1.1
+pifacedigitalio==3.1.0
+pyasn1==0.1.7
+pyOpenSSL==0.13.1
+pyserial==2.6
+python-dotenv==0.5.1
+requests==2.10.0
+RPi.GPIO==0.6.2
+RTIMULib==7.2.1
+sense-hat==2.1.0
+six==1.8.0
+urllib3==1.9.1
+virtualenv==1.11.6
