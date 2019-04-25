@@ -5,13 +5,13 @@ numpy==1.8.2
 ordereddict==1.1
 pifacedigitalio==3.1.0
 pyasn1==0.1.7
-pyOpenSSL==0.13.1
+pyOpenSSL==17.5.0
 pyserial==2.6
 python-dotenv==0.5.1
-requests==2.10.0
+requests==2.20.0
 RPi.GPIO==0.6.2
 RTIMULib==7.2.1
 sense-hat==2.1.0
 six==1.8.0
-urllib3==1.9.1
+urllib3==1.24.2
 virtualenv==1.11.6
